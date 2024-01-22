@@ -1,7 +1,7 @@
 {
   "name": "nextra-docs-template",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Potlock Ecosystem Map",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,9 +14,9 @@
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/Potlock/ecosysteme/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/Potlock/ecosysteme/",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",

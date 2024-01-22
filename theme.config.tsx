@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/PotLock/ecosystem',
   footer: {
-    text: 'Potlock',
+    text: '🫕 Potlock',
   },
   head: (
     <>
