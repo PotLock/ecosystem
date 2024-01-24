@@ -1,4 +1,4 @@
-# Potlock Ecoosystem
+# Potlock Ecosystem
 Markdown doc based site tracking affiliated Potlock protocol managed properties, social medias, supporting organizations, and community projects
 
 ## Local Development
